@@ -31,7 +31,7 @@ void main(){
 	ptr=&a;
 	ntr=&b;
 	
-	printf("X: %d\n",*ptr);
-	printf("Y: %d",*ntr);
+	printf("X: %d\n",*ntr);
+	printf("Y: %d",*ptr);
 	
 }
